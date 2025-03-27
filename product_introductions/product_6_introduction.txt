@@ -1,0 +1,4 @@
+Tên sản phẩm: 123
+Danh mục: a
+Giá: 233
+Mô tả: sdfa

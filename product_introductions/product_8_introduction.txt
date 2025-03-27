@@ -1,0 +1,4 @@
+Tên sản phẩm: laptop
+Danh mục: laptop
+Giá: 1000000
+Mô tả: laptop dep
